@@ -63,7 +63,7 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="duration-1000 opacity-0">
+      <main className="">
         {counter == 1 && <Slide1 />}
         {counter == 2 && <Slide2 />}
         {counter == 3 && <Slide3 />}

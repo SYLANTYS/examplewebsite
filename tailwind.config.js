@@ -11,7 +11,7 @@ module.exports = {
         webdarkorange: '#913627',
         webblue: '#2d3f53',
 
-      }
+      },
     },
   },
   plugins: [],
